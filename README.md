@@ -1,6 +1,6 @@
 # Now 
 
-A little program that outputs the current time.
+A little program that outputs your current time.
 
 ## Build
 
@@ -12,6 +12,7 @@ $ make
 
 ```bash
 $ ./now
+12:32:47
 ```
 
 
